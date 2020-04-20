@@ -19,10 +19,10 @@ Get bill after buy
 
 ## Account for login
 
-email : luke@test.com
+email : luke@test.com,
 password : 123
 
-email : anakin@test.com
+email : anakin@test.com,
 password : 123
 
 Guest (this default)
