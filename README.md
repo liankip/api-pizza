@@ -7,7 +7,7 @@ List Pizza
 Auth (with Token)
 
 - url (https://pizza-apiv10.herokuapp.com/api/auth/signin) -> login
-- url (https://pizza-apiv10.herokuapp.com/api/auth/receipts/1) -> get list history order
+- url (https://pizza-apiv10.herokuapp.com/api/receipts/1) -> get list history order
 
 Order
 
