@@ -25,6 +25,6 @@ password : 123
 email : anakin@test.com
 password : 123
 
-Guset (this default)
+Guest (this default)
 
 ### Pizza API v1.0
